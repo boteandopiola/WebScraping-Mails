@@ -4,6 +4,7 @@
 # Blog: www.pythondiario.com
 
 from googlesearch import search
+search("Google")
 from socket import timeout
 import http
 from bs4 import BeautifulSoup
